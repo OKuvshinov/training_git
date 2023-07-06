@@ -5,6 +5,8 @@
 
 int a, b;
 
+int newCommitOnNewBranch = 0;
+
 int main()
 {
     int c = a + b;
