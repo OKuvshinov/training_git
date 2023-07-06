@@ -15,6 +15,7 @@ int main()
     std::cout << "add new commit on new_branch";
     std::cout << "for push to github";
     std::cout << "changes, but no commit";
+    std::cout << "add new code after --amend";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
