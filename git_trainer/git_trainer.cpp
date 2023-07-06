@@ -13,6 +13,7 @@ int main()
     std::cout << "this is a new branch. First commit on it\n";
     std::cout << "new code on new_branch";
     std::cout << "add new commit on new_branch";
+    std::cout << "for push to github";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
