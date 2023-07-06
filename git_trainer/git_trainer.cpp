@@ -3,9 +3,12 @@
 
 #include <iostream>
 
+int a, b;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    int c = a + b;
+    std::cout << "it is the master branch\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
