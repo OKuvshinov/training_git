@@ -9,6 +9,7 @@ int main()
 {
     int c = a + b;
     std::cout << "this is a new branch. First commit on it\n";
+    std::cout << "new code on new_branch";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
